@@ -7851,6 +7851,9 @@ MonoBehaviour:
   offsetX: 2
   offsetY: 2
   offsetZ: 0
+  followSpeed: 4
+  isXLocked: 0
+  isYLocked: 0
 --- !u!1001 &569719664
 PrefabInstance:
   m_ObjectHideFlags: 0
