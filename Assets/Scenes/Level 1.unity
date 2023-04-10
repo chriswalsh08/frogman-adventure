@@ -8690,6 +8690,31 @@ PlatformEffector2D:
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
+--- !u!1 &362879788 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8251720251738628280, guid: 4f0c7a4fc4bc0df429d2d0b3bf445746, type: 3}
+  m_PrefabInstance: {fileID: 260481586}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &362879792
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362879788}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 717263bab20557d4ca88a672a2ee36bf, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &423410716
 GameObject:
   m_ObjectHideFlags: 0
@@ -9119,6 +9144,9 @@ MonoBehaviour:
   offsetX: 2
   offsetY: 2
   offsetZ: 0
+  followSpeed: 0
+  isXLocked: 0
+  isYLocked: 0
 --- !u!1 &547808439
 GameObject:
   m_ObjectHideFlags: 0
