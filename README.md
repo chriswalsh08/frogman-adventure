@@ -2,4 +2,4 @@
 
 # Frogman Adventures
 
-A Unity 2D game made with C#
+A Unity 2D game made with C#. My first Unity game ever. Mainly made this to explore the different features of the Unity engine and to familiarize myself with the game development process. The asset pack I used for this game has a bunch of enemy sprites and fun platformer blocks in it, and I'd love to add them in some time!
